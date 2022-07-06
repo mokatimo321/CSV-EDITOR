@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run score.py
+web: sh setup.sh && streamlit run helper.py
